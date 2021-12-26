@@ -7,5 +7,5 @@ python 3.* interpreter, available [here](https://www.python.org/downloads/)
 
 ### Usage:
 
-```python fetch.py```
+```python fetch.py```<br />
 the above command fetches platform-tools specific to your system and magisk
